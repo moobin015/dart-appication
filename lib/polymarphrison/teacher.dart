@@ -1,0 +1,1 @@
+import 'package:dart_consol_appliacation/polymarphrison/parson.dart';class Teacher extends Parson {  @override  void display() {    print('Im am a Teacher');  }}

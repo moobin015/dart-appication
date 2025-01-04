@@ -1,0 +1,1 @@
+import 'package:dart_consol_appliacation/polymarphrison/parson.dart';class Student extends Parson {  void display() {    print('I am Student');  }}
