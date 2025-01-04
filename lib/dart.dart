@@ -8,6 +8,8 @@ void main() {
   p = Teacher();
   p.display();
   p = Student();
-  //name 
+  //name
+  p.display();
+  //222
   p.display();
 }
